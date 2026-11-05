@@ -1,0 +1,13 @@
+# Machine-specific Android SDK, emulator profiles, snapshots, logs, and downloads
+.local/
+.setup/
+
+# Local phone catalog and transient files
+devices.json
+*.log
+*.tmp
+*.lock
+
+# Windows/macOS metadata
+Thumbs.db
+.DS_Store
